@@ -1,3 +1,5 @@
 HTML5UP
 Templated
 Vuetify
+Font Awesome
+Bootstrap
